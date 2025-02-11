@@ -31,7 +31,7 @@ This is a personal portfolio website for **Samiksha Mishra**, showcasing her ski
 ## Installation & Usage
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/portfolio.git
+   git clone https://github.com/samikshya97689/Developer-Portfolio.git
    ```
 2. Navigate to the project folder:
    ```sh
@@ -41,7 +41,7 @@ This is a personal portfolio website for **Samiksha Mishra**, showcasing her ski
 
 ## How the Code Works
 ### **Typing Animation** (CSS + JS)
-The name **"Samiksha Mishra"** appears with a typing effect.
+The name **"Samikshya Mishra"** appears with a typing effect.
 ```css
 @keyframes typing {
     0% { width: 0; }
